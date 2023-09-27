@@ -1,0 +1,1 @@
+This repository contains advanced projects in modern computer vision, encompassing image filtering, feature matching via Harris Corner Detector and SIFT Descriptor, 2D to 3D image reconstruction, scene recognition utilizing tiny image and bag of words feature descriptors, and convolutional neural network applications.
